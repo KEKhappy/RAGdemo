@@ -1,0 +1,15 @@
+transformers==4.50.3
+chromadb
+langchain
+langchain-huggingface
+langchain-community
+langchain-text-splitters
+langchain-chroma
+pypdf
+sentence-transformers
+llama-cpp-python
+huggingface-hub
+fastapi
+uvicorn
+pydantic
+pydantic_settings
